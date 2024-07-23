@@ -1,5 +1,5 @@
-# week4q6
-On a 6 hour flight from NYC to LA, how many times is it acceptable to get up if you're not in an aisle seat?
+# week4-q6
+### Survey reponses to the question: On a 6 hour flight from NYC to LA, how many times is it acceptable to get up if you're not in an aisle seat?
 
 ![alt text](https://github.com/bliu0117/week4q6/blob/main/Bella%20Liu%206%20hour%20flight.png)
 
